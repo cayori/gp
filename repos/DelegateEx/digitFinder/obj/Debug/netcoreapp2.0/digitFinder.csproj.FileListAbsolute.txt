@@ -1,0 +1,11 @@
+D:\00. WORKSPACE\VSprojects\repos\DelegateEx\digitFinder\bin\Debug\netcoreapp2.0\digitFinder.deps.json
+D:\00. WORKSPACE\VSprojects\repos\DelegateEx\digitFinder\bin\Debug\netcoreapp2.0\digitFinder.runtimeconfig.json
+D:\00. WORKSPACE\VSprojects\repos\DelegateEx\digitFinder\bin\Debug\netcoreapp2.0\digitFinder.runtimeconfig.dev.json
+D:\00. WORKSPACE\VSprojects\repos\DelegateEx\digitFinder\bin\Debug\netcoreapp2.0\digitFinder.dll
+D:\00. WORKSPACE\VSprojects\repos\DelegateEx\digitFinder\bin\Debug\netcoreapp2.0\digitFinder.pdb
+D:\00. WORKSPACE\VSprojects\repos\DelegateEx\digitFinder\obj\Debug\netcoreapp2.0\digitFinder.csproj.CoreCompileInputs.cache
+D:\00. WORKSPACE\VSprojects\repos\DelegateEx\digitFinder\obj\Debug\netcoreapp2.0\digitFinder.AssemblyInfoInputs.cache
+D:\00. WORKSPACE\VSprojects\repos\DelegateEx\digitFinder\obj\Debug\netcoreapp2.0\digitFinder.AssemblyInfo.cs
+D:\00. WORKSPACE\VSprojects\repos\DelegateEx\digitFinder\obj\Debug\netcoreapp2.0\digitFinder.dll
+D:\00. WORKSPACE\VSprojects\repos\DelegateEx\digitFinder\obj\Debug\netcoreapp2.0\digitFinder.pdb
+D:\00. WORKSPACE\VSprojects\repos\DelegateEx\digitFinder\obj\Debug\netcoreapp2.0\digitFinder.csprojResolveAssemblyReference.cache

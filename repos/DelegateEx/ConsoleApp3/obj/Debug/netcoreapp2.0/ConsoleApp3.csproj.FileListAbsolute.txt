@@ -1,0 +1,11 @@
+D:\00. WORKSPACE\VSprojects\repos\DelegateEx\ConsoleApp3\bin\Debug\netcoreapp2.0\ConsoleApp3.deps.json
+D:\00. WORKSPACE\VSprojects\repos\DelegateEx\ConsoleApp3\bin\Debug\netcoreapp2.0\ConsoleApp3.runtimeconfig.json
+D:\00. WORKSPACE\VSprojects\repos\DelegateEx\ConsoleApp3\bin\Debug\netcoreapp2.0\ConsoleApp3.runtimeconfig.dev.json
+D:\00. WORKSPACE\VSprojects\repos\DelegateEx\ConsoleApp3\bin\Debug\netcoreapp2.0\ConsoleApp3.dll
+D:\00. WORKSPACE\VSprojects\repos\DelegateEx\ConsoleApp3\bin\Debug\netcoreapp2.0\ConsoleApp3.pdb
+D:\00. WORKSPACE\VSprojects\repos\DelegateEx\ConsoleApp3\obj\Debug\netcoreapp2.0\ConsoleApp3.csproj.CoreCompileInputs.cache
+D:\00. WORKSPACE\VSprojects\repos\DelegateEx\ConsoleApp3\obj\Debug\netcoreapp2.0\ConsoleApp3.AssemblyInfoInputs.cache
+D:\00. WORKSPACE\VSprojects\repos\DelegateEx\ConsoleApp3\obj\Debug\netcoreapp2.0\ConsoleApp3.AssemblyInfo.cs
+D:\00. WORKSPACE\VSprojects\repos\DelegateEx\ConsoleApp3\obj\Debug\netcoreapp2.0\ConsoleApp3.dll
+D:\00. WORKSPACE\VSprojects\repos\DelegateEx\ConsoleApp3\obj\Debug\netcoreapp2.0\ConsoleApp3.pdb
+D:\00. WORKSPACE\VSprojects\repos\DelegateEx\ConsoleApp3\obj\Debug\netcoreapp2.0\ConsoleApp3.csprojResolveAssemblyReference.cache

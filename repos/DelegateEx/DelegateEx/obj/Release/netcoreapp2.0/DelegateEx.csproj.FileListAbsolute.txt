@@ -1,0 +1,10 @@
+D:\00. WORKSPACE\VSprojects\repos\DelegateEx\DelegateEx\bin\Release\netcoreapp2.0\DelegateEx.deps.json
+D:\00. WORKSPACE\VSprojects\repos\DelegateEx\DelegateEx\bin\Release\netcoreapp2.0\DelegateEx.runtimeconfig.json
+D:\00. WORKSPACE\VSprojects\repos\DelegateEx\DelegateEx\bin\Release\netcoreapp2.0\DelegateEx.runtimeconfig.dev.json
+D:\00. WORKSPACE\VSprojects\repos\DelegateEx\DelegateEx\bin\Release\netcoreapp2.0\DelegateEx.dll
+D:\00. WORKSPACE\VSprojects\repos\DelegateEx\DelegateEx\bin\Release\netcoreapp2.0\DelegateEx.pdb
+D:\00. WORKSPACE\VSprojects\repos\DelegateEx\DelegateEx\obj\Release\netcoreapp2.0\DelegateEx.csproj.CoreCompileInputs.cache
+D:\00. WORKSPACE\VSprojects\repos\DelegateEx\DelegateEx\obj\Release\netcoreapp2.0\DelegateEx.AssemblyInfoInputs.cache
+D:\00. WORKSPACE\VSprojects\repos\DelegateEx\DelegateEx\obj\Release\netcoreapp2.0\DelegateEx.AssemblyInfo.cs
+D:\00. WORKSPACE\VSprojects\repos\DelegateEx\DelegateEx\obj\Release\netcoreapp2.0\DelegateEx.dll
+D:\00. WORKSPACE\VSprojects\repos\DelegateEx\DelegateEx\obj\Release\netcoreapp2.0\DelegateEx.pdb
