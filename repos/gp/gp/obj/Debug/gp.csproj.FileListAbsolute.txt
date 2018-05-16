@@ -1,0 +1,7 @@
+c:\users\jp\source\repos\gp\gp\obj\Debug\gp.csprojResolveAssemblyReference.cache
+c:\users\jp\source\repos\gp\gp\obj\Debug\gp.csproj.CoreCompileInputs.cache
+c:\users\jp\source\repos\gp\gp\bin\Debug\gp.exe.config
+c:\users\jp\source\repos\gp\gp\bin\Debug\gp.exe
+c:\users\jp\source\repos\gp\gp\bin\Debug\gp.pdb
+c:\users\jp\source\repos\gp\gp\obj\Debug\gp.exe
+c:\users\jp\source\repos\gp\gp\obj\Debug\gp.pdb

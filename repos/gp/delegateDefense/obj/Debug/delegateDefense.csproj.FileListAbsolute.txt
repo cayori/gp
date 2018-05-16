@@ -1,0 +1,7 @@
+c:\Users\JP\source\repos\gp\delegateDefense\bin\Debug\delegateDefense.exe.config
+c:\Users\JP\source\repos\gp\delegateDefense\bin\Debug\delegateDefense.exe
+c:\Users\JP\source\repos\gp\delegateDefense\bin\Debug\delegateDefense.pdb
+c:\Users\JP\source\repos\gp\delegateDefense\obj\Debug\delegateDefense.csprojResolveAssemblyReference.cache
+c:\Users\JP\source\repos\gp\delegateDefense\obj\Debug\delegateDefense.csproj.CoreCompileInputs.cache
+c:\Users\JP\source\repos\gp\delegateDefense\obj\Debug\delegateDefense.exe
+c:\Users\JP\source\repos\gp\delegateDefense\obj\Debug\delegateDefense.pdb
