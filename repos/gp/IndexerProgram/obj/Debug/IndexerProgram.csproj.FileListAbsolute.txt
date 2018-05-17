@@ -1,0 +1,7 @@
+D:\00. WORKSPACE\VSprojects\repos\gp\IndexerProgram\bin\Debug\IndexerProgram.exe.config
+D:\00. WORKSPACE\VSprojects\repos\gp\IndexerProgram\bin\Debug\IndexerProgram.exe
+D:\00. WORKSPACE\VSprojects\repos\gp\IndexerProgram\bin\Debug\IndexerProgram.pdb
+D:\00. WORKSPACE\VSprojects\repos\gp\IndexerProgram\obj\Debug\IndexerProgram.csprojResolveAssemblyReference.cache
+D:\00. WORKSPACE\VSprojects\repos\gp\IndexerProgram\obj\Debug\IndexerProgram.csproj.CoreCompileInputs.cache
+D:\00. WORKSPACE\VSprojects\repos\gp\IndexerProgram\obj\Debug\IndexerProgram.exe
+D:\00. WORKSPACE\VSprojects\repos\gp\IndexerProgram\obj\Debug\IndexerProgram.pdb

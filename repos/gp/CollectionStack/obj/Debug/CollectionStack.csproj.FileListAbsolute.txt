@@ -1,0 +1,7 @@
+D:\00. WORKSPACE\VSprojects\repos\gp\CollectionStack\bin\Debug\CollectionStack.exe.config
+D:\00. WORKSPACE\VSprojects\repos\gp\CollectionStack\bin\Debug\CollectionStack.exe
+D:\00. WORKSPACE\VSprojects\repos\gp\CollectionStack\bin\Debug\CollectionStack.pdb
+D:\00. WORKSPACE\VSprojects\repos\gp\CollectionStack\obj\Debug\CollectionStack.csprojResolveAssemblyReference.cache
+D:\00. WORKSPACE\VSprojects\repos\gp\CollectionStack\obj\Debug\CollectionStack.csproj.CoreCompileInputs.cache
+D:\00. WORKSPACE\VSprojects\repos\gp\CollectionStack\obj\Debug\CollectionStack.exe
+D:\00. WORKSPACE\VSprojects\repos\gp\CollectionStack\obj\Debug\CollectionStack.pdb

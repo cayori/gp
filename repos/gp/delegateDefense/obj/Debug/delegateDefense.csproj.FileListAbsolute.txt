@@ -5,3 +5,10 @@ c:\Users\JP\source\repos\gp\delegateDefense\obj\Debug\delegateDefense.csprojReso
 c:\Users\JP\source\repos\gp\delegateDefense\obj\Debug\delegateDefense.csproj.CoreCompileInputs.cache
 c:\Users\JP\source\repos\gp\delegateDefense\obj\Debug\delegateDefense.exe
 c:\Users\JP\source\repos\gp\delegateDefense\obj\Debug\delegateDefense.pdb
+D:\00. WORKSPACE\VSprojects\repos\gp\delegateDefense\bin\Debug\delegateDefense.exe.config
+D:\00. WORKSPACE\VSprojects\repos\gp\delegateDefense\bin\Debug\delegateDefense.exe
+D:\00. WORKSPACE\VSprojects\repos\gp\delegateDefense\bin\Debug\delegateDefense.pdb
+D:\00. WORKSPACE\VSprojects\repos\gp\delegateDefense\obj\Debug\delegateDefense.csprojResolveAssemblyReference.cache
+D:\00. WORKSPACE\VSprojects\repos\gp\delegateDefense\obj\Debug\delegateDefense.csproj.CoreCompileInputs.cache
+D:\00. WORKSPACE\VSprojects\repos\gp\delegateDefense\obj\Debug\delegateDefense.exe
+D:\00. WORKSPACE\VSprojects\repos\gp\delegateDefense\obj\Debug\delegateDefense.pdb

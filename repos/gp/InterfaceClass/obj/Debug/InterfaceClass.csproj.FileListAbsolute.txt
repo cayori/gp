@@ -1,0 +1,6 @@
+D:\00. WORKSPACE\VSprojects\repos\gp\InterfaceClass\bin\Debug\InterfaceClass.exe.config
+D:\00. WORKSPACE\VSprojects\repos\gp\InterfaceClass\bin\Debug\InterfaceClass.exe
+D:\00. WORKSPACE\VSprojects\repos\gp\InterfaceClass\bin\Debug\InterfaceClass.pdb
+D:\00. WORKSPACE\VSprojects\repos\gp\InterfaceClass\obj\Debug\InterfaceClass.csproj.CoreCompileInputs.cache
+D:\00. WORKSPACE\VSprojects\repos\gp\InterfaceClass\obj\Debug\InterfaceClass.exe
+D:\00. WORKSPACE\VSprojects\repos\gp\InterfaceClass\obj\Debug\InterfaceClass.pdb
