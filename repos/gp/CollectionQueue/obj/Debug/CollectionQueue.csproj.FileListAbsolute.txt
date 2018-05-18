@@ -1,0 +1,7 @@
+D:\00. WORKSPACE\VSprojects\repos\gp\CollectionQueue\bin\Debug\CollectionQueue.exe.config
+D:\00. WORKSPACE\VSprojects\repos\gp\CollectionQueue\bin\Debug\CollectionQueue.exe
+D:\00. WORKSPACE\VSprojects\repos\gp\CollectionQueue\bin\Debug\CollectionQueue.pdb
+D:\00. WORKSPACE\VSprojects\repos\gp\CollectionQueue\obj\Debug\CollectionQueue.csprojResolveAssemblyReference.cache
+D:\00. WORKSPACE\VSprojects\repos\gp\CollectionQueue\obj\Debug\CollectionQueue.csproj.CoreCompileInputs.cache
+D:\00. WORKSPACE\VSprojects\repos\gp\CollectionQueue\obj\Debug\CollectionQueue.exe
+D:\00. WORKSPACE\VSprojects\repos\gp\CollectionQueue\obj\Debug\CollectionQueue.pdb

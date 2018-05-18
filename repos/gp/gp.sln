@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndexerProgram", "IndexerPr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollectionStack", "CollectionStack\CollectionStack.csproj", "{FF0330E7-F8D4-429B-A102-C49C4FA60221}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollectionQueue", "CollectionQueue\CollectionQueue.csproj", "{35E3C870-5BD1-4ECD-922E-6C2FCA04D57A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{FF0330E7-F8D4-429B-A102-C49C4FA60221}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FF0330E7-F8D4-429B-A102-C49C4FA60221}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FF0330E7-F8D4-429B-A102-C49C4FA60221}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35E3C870-5BD1-4ECD-922E-6C2FCA04D57A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35E3C870-5BD1-4ECD-922E-6C2FCA04D57A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35E3C870-5BD1-4ECD-922E-6C2FCA04D57A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35E3C870-5BD1-4ECD-922E-6C2FCA04D57A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
