@@ -1,0 +1,10 @@
+D:\00. WORKSPACE\VSprojects\repos\gp\CheckBoxForMediatorPattern\bin\Debug\CheckBoxForMediatorPattern.exe.config
+D:\00. WORKSPACE\VSprojects\repos\gp\CheckBoxForMediatorPattern\bin\Debug\CheckBoxForMediatorPattern.exe
+D:\00. WORKSPACE\VSprojects\repos\gp\CheckBoxForMediatorPattern\bin\Debug\CheckBoxForMediatorPattern.pdb
+D:\00. WORKSPACE\VSprojects\repos\gp\CheckBoxForMediatorPattern\obj\Debug\CheckBoxForMediatorPattern.csprojResolveAssemblyReference.cache
+D:\00. WORKSPACE\VSprojects\repos\gp\CheckBoxForMediatorPattern\obj\Debug\CheckBoxForMediatorPattern.Properties.Resources.resources
+D:\00. WORKSPACE\VSprojects\repos\gp\CheckBoxForMediatorPattern\obj\Debug\CheckBoxForMediatorPattern.csproj.GenerateResource.Cache
+D:\00. WORKSPACE\VSprojects\repos\gp\CheckBoxForMediatorPattern\obj\Debug\CheckBoxForMediatorPattern.csproj.CoreCompileInputs.cache
+D:\00. WORKSPACE\VSprojects\repos\gp\CheckBoxForMediatorPattern\obj\Debug\CheckBoxForMediatorPattern.exe
+D:\00. WORKSPACE\VSprojects\repos\gp\CheckBoxForMediatorPattern\obj\Debug\CheckBoxForMediatorPattern.pdb
+D:\00. WORKSPACE\VSprojects\repos\gp\CheckBoxForMediatorPattern\obj\Debug\CheckBoxForMediatorPattern.Form1.resources
