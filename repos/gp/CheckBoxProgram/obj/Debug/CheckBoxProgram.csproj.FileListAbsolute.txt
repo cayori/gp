@@ -1,0 +1,10 @@
+C:\Users\cayor\Documents\gitRepo\VSprojects\repos\gp\CheckBoxProgram\bin\Debug\CheckBoxProgram.exe.config
+C:\Users\cayor\Documents\gitRepo\VSprojects\repos\gp\CheckBoxProgram\bin\Debug\CheckBoxProgram.exe
+C:\Users\cayor\Documents\gitRepo\VSprojects\repos\gp\CheckBoxProgram\bin\Debug\CheckBoxProgram.pdb
+C:\Users\cayor\Documents\gitRepo\VSprojects\repos\gp\CheckBoxProgram\obj\Debug\CheckBoxProgram.csprojResolveAssemblyReference.cache
+C:\Users\cayor\Documents\gitRepo\VSprojects\repos\gp\CheckBoxProgram\obj\Debug\CheckBoxProgram.Form1.resources
+C:\Users\cayor\Documents\gitRepo\VSprojects\repos\gp\CheckBoxProgram\obj\Debug\CheckBoxProgram.Properties.Resources.resources
+C:\Users\cayor\Documents\gitRepo\VSprojects\repos\gp\CheckBoxProgram\obj\Debug\CheckBoxProgram.csproj.GenerateResource.Cache
+C:\Users\cayor\Documents\gitRepo\VSprojects\repos\gp\CheckBoxProgram\obj\Debug\CheckBoxProgram.csproj.CoreCompileInputs.cache
+C:\Users\cayor\Documents\gitRepo\VSprojects\repos\gp\CheckBoxProgram\obj\Debug\CheckBoxProgram.exe
+C:\Users\cayor\Documents\gitRepo\VSprojects\repos\gp\CheckBoxProgram\obj\Debug\CheckBoxProgram.pdb

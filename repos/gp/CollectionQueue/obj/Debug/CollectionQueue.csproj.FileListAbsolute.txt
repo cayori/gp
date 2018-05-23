@@ -5,3 +5,10 @@ D:\00. WORKSPACE\VSprojects\repos\gp\CollectionQueue\obj\Debug\CollectionQueue.c
 D:\00. WORKSPACE\VSprojects\repos\gp\CollectionQueue\obj\Debug\CollectionQueue.csproj.CoreCompileInputs.cache
 D:\00. WORKSPACE\VSprojects\repos\gp\CollectionQueue\obj\Debug\CollectionQueue.exe
 D:\00. WORKSPACE\VSprojects\repos\gp\CollectionQueue\obj\Debug\CollectionQueue.pdb
+C:\Users\cayor\Documents\gitRepo\VSprojects\repos\gp\CollectionQueue\bin\Debug\CollectionQueue.exe.config
+C:\Users\cayor\Documents\gitRepo\VSprojects\repos\gp\CollectionQueue\bin\Debug\CollectionQueue.exe
+C:\Users\cayor\Documents\gitRepo\VSprojects\repos\gp\CollectionQueue\bin\Debug\CollectionQueue.pdb
+C:\Users\cayor\Documents\gitRepo\VSprojects\repos\gp\CollectionQueue\obj\Debug\CollectionQueue.csprojResolveAssemblyReference.cache
+C:\Users\cayor\Documents\gitRepo\VSprojects\repos\gp\CollectionQueue\obj\Debug\CollectionQueue.csproj.CoreCompileInputs.cache
+C:\Users\cayor\Documents\gitRepo\VSprojects\repos\gp\CollectionQueue\obj\Debug\CollectionQueue.exe
+C:\Users\cayor\Documents\gitRepo\VSprojects\repos\gp\CollectionQueue\obj\Debug\CollectionQueue.pdb
