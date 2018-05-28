@@ -1,0 +1,7 @@
+C:\Users\JP\source\repos\firstWindowProgram\makingOwnForm\bin\Debug\makingOwnForm.exe.config
+C:\Users\JP\source\repos\firstWindowProgram\makingOwnForm\bin\Debug\makingOwnForm.exe
+C:\Users\JP\source\repos\firstWindowProgram\makingOwnForm\bin\Debug\makingOwnForm.pdb
+C:\Users\JP\source\repos\firstWindowProgram\makingOwnForm\obj\Debug\makingOwnForm.csproj.CoreCompileInputs.cache
+C:\Users\JP\source\repos\firstWindowProgram\makingOwnForm\obj\Debug\makingOwnForm.exe
+C:\Users\JP\source\repos\firstWindowProgram\makingOwnForm\obj\Debug\makingOwnForm.pdb
+C:\Users\JP\source\repos\firstWindowProgram\makingOwnForm\obj\Debug\makingOwnForm.csprojResolveAssemblyReference.cache

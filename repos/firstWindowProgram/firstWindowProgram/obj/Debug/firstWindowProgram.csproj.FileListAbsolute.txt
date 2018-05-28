@@ -1,0 +1,10 @@
+C:\Users\JP\source\repos\firstWindowProgram\firstWindowProgram\bin\Debug\firstWindowProgram.exe.config
+C:\Users\JP\source\repos\firstWindowProgram\firstWindowProgram\bin\Debug\firstWindowProgram.exe
+C:\Users\JP\source\repos\firstWindowProgram\firstWindowProgram\bin\Debug\firstWindowProgram.pdb
+C:\Users\JP\source\repos\firstWindowProgram\firstWindowProgram\obj\Debug\firstWindowProgram.csprojResolveAssemblyReference.cache
+C:\Users\JP\source\repos\firstWindowProgram\firstWindowProgram\obj\Debug\firstWindowProgram.Properties.Resources.resources
+C:\Users\JP\source\repos\firstWindowProgram\firstWindowProgram\obj\Debug\firstWindowProgram.csproj.GenerateResource.Cache
+C:\Users\JP\source\repos\firstWindowProgram\firstWindowProgram\obj\Debug\firstWindowProgram.csproj.CoreCompileInputs.cache
+C:\Users\JP\source\repos\firstWindowProgram\firstWindowProgram\obj\Debug\firstWindowProgram.exe
+C:\Users\JP\source\repos\firstWindowProgram\firstWindowProgram\obj\Debug\firstWindowProgram.pdb
+C:\Users\JP\source\repos\firstWindowProgram\firstWindowProgram\obj\Debug\firstWindowProgram.Form1.resources

@@ -1,0 +1,7 @@
+C:\Users\JP\source\repos\BinaryWriting\BinaryWriting\bin\Debug\BinaryWriting.exe.config
+C:\Users\JP\source\repos\BinaryWriting\BinaryWriting\bin\Debug\BinaryWriting.exe
+C:\Users\JP\source\repos\BinaryWriting\BinaryWriting\bin\Debug\BinaryWriting.pdb
+C:\Users\JP\source\repos\BinaryWriting\BinaryWriting\obj\Debug\BinaryWriting.csprojResolveAssemblyReference.cache
+C:\Users\JP\source\repos\BinaryWriting\BinaryWriting\obj\Debug\BinaryWriting.csproj.CoreCompileInputs.cache
+C:\Users\JP\source\repos\BinaryWriting\BinaryWriting\obj\Debug\BinaryWriting.exe
+C:\Users\JP\source\repos\BinaryWriting\BinaryWriting\obj\Debug\BinaryWriting.pdb
