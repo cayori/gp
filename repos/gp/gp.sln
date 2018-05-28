@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckBoxProgram", "CheckBox
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckBoxForMediatorPattern", "CheckBoxForMediatorPattern\CheckBoxForMediatorPattern.csproj", "{349269F0-927F-44E0-AFC3-3E3CDB5CDF9F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListBox", "ListBox\ListBox.csproj", "{E5B33D0A-F165-4635-9CAE-001974A671D4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{349269F0-927F-44E0-AFC3-3E3CDB5CDF9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{349269F0-927F-44E0-AFC3-3E3CDB5CDF9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{349269F0-927F-44E0-AFC3-3E3CDB5CDF9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5B33D0A-F165-4635-9CAE-001974A671D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5B33D0A-F165-4635-9CAE-001974A671D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5B33D0A-F165-4635-9CAE-001974A671D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5B33D0A-F165-4635-9CAE-001974A671D4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

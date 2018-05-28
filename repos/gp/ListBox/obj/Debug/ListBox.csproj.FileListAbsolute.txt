@@ -1,0 +1,9 @@
+D:\00. WORKSPACE\VSprojects\repos\gp\ListBox\bin\Debug\ListBox.exe.config
+D:\00. WORKSPACE\VSprojects\repos\gp\ListBox\bin\Debug\ListBox.exe
+D:\00. WORKSPACE\VSprojects\repos\gp\ListBox\bin\Debug\ListBox.pdb
+D:\00. WORKSPACE\VSprojects\repos\gp\ListBox\obj\Debug\ListBox.Form1.resources
+D:\00. WORKSPACE\VSprojects\repos\gp\ListBox\obj\Debug\ListBox.Properties.Resources.resources
+D:\00. WORKSPACE\VSprojects\repos\gp\ListBox\obj\Debug\ListBox.csproj.GenerateResource.Cache
+D:\00. WORKSPACE\VSprojects\repos\gp\ListBox\obj\Debug\ListBox.csproj.CoreCompileInputs.cache
+D:\00. WORKSPACE\VSprojects\repos\gp\ListBox\obj\Debug\ListBox.exe
+D:\00. WORKSPACE\VSprojects\repos\gp\ListBox\obj\Debug\ListBox.pdb
